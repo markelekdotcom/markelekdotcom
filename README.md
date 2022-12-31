@@ -8,7 +8,7 @@
 
 <div style="display:flex;justify-content:left;align-items:center;">
 
-<div style="display:flex;justify-content:center;align-items:center;row-gap:2px;flex-direction:column;padding-right: 10px">
+<div style="display:block;justify-content:center;align-items:center;row-gap:2px;flex-direction:column;padding-right: 10px">
 <a href="https://github.com/markelekdotcom/color-ramp-converter">
 <img src="https://github.com/markelekdotcom/color-ramp-converter/blob/main/docs/images/colorrampconverter_index.png?raw=true" width="400" >
 </a>
@@ -17,7 +17,7 @@
 </a>
 </div>
 
-<div style="display:flex;justify-content:center;align-items:center;row-gap:2px;flex-direction:column">
+<div style="display:block;justify-content:center;align-items:center;row-gap:2px;flex-direction:column">
 <a href="https://github.com/markelekdotcom/3d-pixels">
 <img src="https://github.com/markelekdotcom/3d-pixels/blob/main/docs/images/3dpixels_index.png?raw=true" width="400" >
 </a>
