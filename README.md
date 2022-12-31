@@ -6,6 +6,7 @@
 - ⚡ Fun fact: ...
 
 
+
 <div style="display:flex;justify-content:left;align-items:center;flex-direction:row;min-width:820px">
 
 <div style="display:block;justify-content:center;align-items:start;row-gap:2px;flex-direction:column;padding-right: 10px">
@@ -29,7 +30,7 @@
 </div>
 
 
-<span>&nbsp;</span>
+
 
 
 <p align="left">
