@@ -8,23 +8,23 @@
 
 <div style="display:flex;justify-content:center;align-items:center;gap:10px;">
 
-<p>
+<div>
 <a href="https://github.com/markelekdotcom/color-ramp-converter">
 <img src="https://github.com/markelekdotcom/color-ramp-converter/blob/main/docs/images/colorrampconverter_index.png?raw=true" width="400" >
 </a>
 <a href="https://github.com/markelekdotcom/color-ramp-converter">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=color-ramp-converter&theme=dark" width="400"/>
 </a>
-</p>
+</div>
 
-<p>
+<div>
 <a href="https://github.com/markelekdotcom/3d-pixels">
 <img src="https://github.com/markelekdotcom/3d-pixels/blob/main/docs/images/3dpixels_index.png?raw=true" width="400" >
 </a>
 <a href="https://github.com/markelekdotcom/3d-pixels">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=3d-pixels&theme=dark" width="400"/>
 </a>
-</p>
+</div>
 
 </div>
 
