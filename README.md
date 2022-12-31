@@ -8,11 +8,11 @@
 
 
 <style>
-.container {  display: grid;
-grid-template-columns: 1fr 1fr;
-grid-template-rows: 1fr 1fr;
-gap: 2px 8px;
-grid-auto-flow: row;
+    .container {  display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 2px 8px;
+    grid-auto-flow: row;
 }
 .block1 { grid-area: 1 / 1 / 2 / 2; }
 .block2 { grid-area: 1 / 2 / 2 / 3; }
