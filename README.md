@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/markelekdotcom/color-ramp-converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=color-ramp-converter&theme=dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=color-ramp-converter&theme=dark" width="400"/>
 </a>
 
 <span>&nbsp;</span>
@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/markelekdotcom/3d-pixels">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=3d-pixels&theme=dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=3d-pixels&theme=dark" width="400"/>
 </a>
 
 </p>
