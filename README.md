@@ -5,11 +5,36 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+<p align="center">
+
 <a href="https://github.com/markelekdotcom/color-ramp-converter">
-<img width="200" src="https://github.com/markelekdotcom/color-ramp-converter/tree/main/docs/images/colorrampconverter_index.png" />
+<img src="https://github.com/markelekdotcom/color-ramp-converter/blob/main/docs/images/colorrampconverter_index.png?raw=true" width="400" >
 </a>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=color-ramp-converter&theme=dark)
+<a href="https://github.com/markelekdotcom/color-ramp-converter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=color-ramp-converter&theme=dark" width="400"/>
+</a>
+
+<span>&nbsp;</span>
+
+<a href="https://github.com/markelekdotcom/3d-pixels">
+<img src="https://github.com/markelekdotcom/3d-pixels/blob/main/docs/images/3dpixels_index.png?raw=true" width="400" >
+</a>
+
+<a href="https://github.com/markelekdotcom/3d-pixels">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=3d-pixels&theme=dark" width="400"/>
+</a>
+
+</p>
 
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markelekdotcom&show_icons=true&count_private=true&hide=prs,contribs&card_width=400&theme=dark)
+<span>&nbsp;</span>
+
+
+<p align="center">
+
+<a href="https://github.com/markelekdotcom?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=markelekdotcom&show_icons=true&count_private=true&hide=prs,contribs&card_width=400&theme=dark" width="400"/>
+</a>
+
+</p>
