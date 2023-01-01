@@ -2,13 +2,17 @@
 
 ### It's Mark
 
-I am a Blender addon developer with a passion for creating tools that make it easier and more enjoyable to work with Blender. I have always been fascinated by the power of computer graphics, and I am grateful to have the opportunity to contribute to the Blender community with my addons. I hope you find them useful and that they help you achieve your creative visions.
+I am a Blender addon developer with a passion for creating tools that make it easier and more enjoyable to work with Blender. <br>
+I have always been fascinated by the power of computer graphics, and I am grateful to have the opportunity to contribute to the Blender community with my addons. <br>
+I hope you find them useful and that they help you achieve your creative visions.
 
 - 🔨 I’m currently working on Blender addons and Projects
 - 🌌 I’m interested in: 3D, AI, GameDev, AR, VR, Robotics, Quantum🐱‍👤
 
 ## 🦉 Fun fact
-I'm a total night owl. I find that I am the most productive while the world sleeps. Plus, there's something really satisfying about getting a lot of work done while everyone else is asleep.
+
+I'm a total night owl. I find that I am the most productive while the world sleeps. <br>
+Plus, there's something really satisfying about getting a lot of work done while everyone else is asleep.
 
 ## ⚡ Latest Blender Projects
 
