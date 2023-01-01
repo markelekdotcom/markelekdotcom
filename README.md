@@ -2,7 +2,7 @@
 
 ### It's Mark
 
-I am a Blender addon developer with a passion for creating tools that make it easier and more enjoyable to work with Blender. <br>
+I'm a Blender addon developer with a passion for creating tools that make it easier and more enjoyable to work with Blender. <br>
 I have always been fascinated by the power of computer graphics, and I am grateful to have the opportunity to contribute to the Blender community with my addons. <br>
 I hope you find them useful and that they help you achieve your creative visions.
 
