@@ -66,13 +66,6 @@ I'm a total night owl. I find that I am the most productive while the world slee
 - Java
 - HTML, CSS
 
-## 📚 Libraries
-
-- Matplotlib
-- NumPy
-- Pandas
-- Sphinx
-
 ## 📫 Contact M.E.
 https://linktr.ee/markelekdotcom
 
