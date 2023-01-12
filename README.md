@@ -76,6 +76,6 @@ https://linktr.ee/markelekdotcom
 <br>
 <p align="left">
 <a href="https://github.com/markelekdotcom?tab=repositories">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=markelekdotcom&show_icons=true&count_private=true&hide=prs,contribs&card_width=400&theme=dark" width="400"/>
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markelekdotcom&show_icons=true&count_private=true&hide=prs,contribs&card_width=400&theme=dark" width="400"/>
 </a>
 </p>
