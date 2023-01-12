@@ -29,11 +29,11 @@ Plus, there's something really satisfying about getting a lot of work done while
 </p>
 <p align="left">
 <a href="https://github.com/markelekdotcom/color-ramp-converter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=color-ramp-converter&theme=dark" width="400"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markelekdotcom&repo=color-ramp-converter&theme=dark" width="400"/>
 </a>
 &nbsp;
 <a href="https://github.com/markelekdotcom/3d-pixels">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=markelekdotcom&repo=3d-pixels&theme=dark" width="400"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markelekdotcom&repo=3d-pixels&theme=dark" width="400"/>
 </a>
 </p>
 
