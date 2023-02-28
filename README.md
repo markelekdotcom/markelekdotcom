@@ -9,6 +9,12 @@ I hope you find them useful and that they help you achieve your creative visions
 - 🔨 I’m currently working on Blender addons and Projects
 - 🌌 I’m interested in: 3D, AI, GameDev, AR, VR, Robotics, Quantum🐱‍👤
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ## 🦉 Fun fact
 
 I'm a total night owl. I find that I am the most productive while the world sleeps. <br>
