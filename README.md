@@ -7,7 +7,7 @@ I have always been fascinated by the power of computer graphics, and I am gratef
 I hope you find them useful and that they help you achieve your creative visions.
 
 - 🔨 I’m currently working on Blender addons and Projects
-- 🌌 I’m interested in: 3D, AI, GameDev, AR, VR, Robotics, Quantum🐱‍👤
+- 🌌 I’m interested in: Python, AI, Game Development, 3D, VR, AR, Robotics, Quantum stuff🐱‍👤
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/markelekdotcom/markelekdotcom/output/github-snake-dark.svg" />
