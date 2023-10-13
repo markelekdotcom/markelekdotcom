@@ -78,10 +78,3 @@ Plus, there's something really satisfying about getting a lot of work done while
 
 ## 📫 Contact M.E.
 https://linktr.ee/markelekdotcom
-
-<br>
-<p align="left">
-<a href="https://github.com/markelekdotcom?tab=repositories">
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markelekdotcom&show_icons=true&count_private=true&hide=prs,contribs&card_width=400&theme=dark" width="400"/>
-</a>
-</p>
